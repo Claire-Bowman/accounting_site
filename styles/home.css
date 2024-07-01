@@ -1,0 +1,13 @@
+header {
+    background-color: #5C996E
+    
+}
+.logo-img{
+    padding: 5px;
+}
+nav{
+    text-align: center;
+    text-emphasis-color: #000501;
+    padding: 15px;
+    font-size: x-large;
+}
