@@ -29,7 +29,7 @@ footer{
     text-align: center;
 }
 .image-one{
-    align-items: center;
+    object-fit: cover;
 }
 .image-two{
     padding-left: 25%;
