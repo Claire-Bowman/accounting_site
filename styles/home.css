@@ -11,3 +11,26 @@ nav{
     padding: 15px;
     font-size: x-large;
 }
+
+h1{
+    padding-left: 35%;
+    font-size: xx-large;
+}
+p{
+    width: 900px;
+    font-size: large;
+    padding-left: 30%;
+}
+
+footer{
+    background-color: #99D19C;
+}
+.footnav{
+    text-align: center;
+}
+.image-one{
+    align-items: center;
+}
+.image-two{
+    padding-left: 25%;
+}
