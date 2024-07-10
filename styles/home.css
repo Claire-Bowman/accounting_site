@@ -12,8 +12,9 @@ nav{
     font-size: x-large;
 }
 nav a:hover {
-    background-color: white;
+    background-color: lightslategray;
     padding: 10px;
+    color: white;
 }
 h1{
     padding-left: 35%;
