@@ -1,0 +1,44 @@
+header {
+    background-color: #5C996E;
+    text-emphasis-color: white;
+}
+.logo-img{
+    padding: 5px;
+}
+a{
+    color: beige;
+}
+nav{
+    text-align: center;
+    text-emphasis-color: white;
+    padding: 15px;
+    font-size: x-large;
+}
+nav a:hover {
+    background-color: lightslategray;
+    padding: 10px;
+    color: white;
+}
+h1{
+    padding-left: 35%;
+    font-size: xx-large;
+}
+p{
+    width: 900px;
+    font-size: large;
+    padding-left: 30%;
+}
+
+footer{
+    background-color: #99D19C;
+}
+.footnav{
+    text-align: center;
+    font-size: x-large;
+}
+.image-three{
+    object-fit: cover;
+}
+.image-four{
+    padding-left: 25%;
+}
