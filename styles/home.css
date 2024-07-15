@@ -38,6 +38,7 @@ footer{
 }
 .footnav{
     text-align: center;
+    font-family: "Victor Mono", monospace;
 }
 .image-one{
     object-fit: cover;

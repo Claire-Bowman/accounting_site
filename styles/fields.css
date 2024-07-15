@@ -40,6 +40,7 @@ footer{
 .footnav{
     text-align: center;
     font-size: x-large;
+    font-family: "Victor Mono", monospace;
 }
 .image-three{
     object-fit: cover;
