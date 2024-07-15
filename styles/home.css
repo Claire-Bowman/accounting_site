@@ -22,11 +22,15 @@ nav a:hover {
 h1{
     padding-left: 35%;
     font-size: xx-large;
+    font-family: "Victor Mono", monospace;
 }
 p{
     width: 900px;
     font-size: large;
     padding-left: 30%;
+    font-family: "Cutive Mono", monospace;
+    font-weight: 400;
+
 }
 
 footer{
