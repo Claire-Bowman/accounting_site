@@ -13,6 +13,7 @@ nav{
     text-emphasis-color: white;
     padding: 15px;
     font-size: x-large;
+    font-family: "Victor Mono", monospace;
 }
 nav a:hover {
     background-color: lightslategray;
